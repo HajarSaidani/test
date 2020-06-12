@@ -1,0 +1,17 @@
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/interfaces/IDaoCompte.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/dao/MySqlDaoCompte.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/interfaces/IDaoClient.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/interfaces/IDao.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/modele/CompteSansDecouvert.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/dao/MySqlConnexion.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/enumerations/EPersistance.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/factory/dao/DaoFactory.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/main/StartPoint.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/modele/Banque.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/modele/Compte.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/factory/dao/MySqlDaoFactory.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/modele/Client.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/enumerations/ETypeCompte.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/factory/modele/CompteFactory.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/dao/MySqlDaoClient.java
+/Users/mac/git/ANNEE_SPECIALE2020/bank/src/main/java/com/iut/as/modele/CompteAvecDecouvert.java
